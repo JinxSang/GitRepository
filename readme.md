@@ -1,3 +1,4 @@
 *Git is a free software*
 
-**Git is a vision distribution control system**
+**Git is a vision control system**
+
